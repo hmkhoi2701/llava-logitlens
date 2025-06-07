@@ -5,9 +5,15 @@ Logit Lens from the paper, [Towards Interpreting Visual Information Processing i
 ## Installation
 1. **Clone the repository:**
    ```bash
+   git clone https://github.com/hmkhoi2701/llava-logitlens
+   cd llava-logitlens
+   ```
+
+Or refer to the original repo 
+   ```
    git clone https://github.com/clemneo/llava-interp
    cd llava-interp
-
+   ```
 
 2. Install required Python packages:
     ```bash
